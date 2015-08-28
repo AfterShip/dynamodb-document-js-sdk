@@ -1,5 +1,5 @@
 {
-  "name": "dynamodb-doc",
+  "name": "@aftership/dynamodb-doc",
   "description": "DynamoDB Document SDK for Javascript",
   "version": "1.0.0",
   "author": {
